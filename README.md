@@ -49,5 +49,5 @@ Ce parcours m'a donné le goût du concret et l'habitude de travailler sous cont
 ## Me contacter
 
 [LinkedIn](https://www.linkedin.com/in/nelson-grac-aubert)  
-[ITCH.IO](https://nelson-skree-ga.itch.io)
+[ITCH.IO](https://nelson-skree-ga.itch.io)  
 nelson.grac-aubert@laplateforme.io
